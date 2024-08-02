@@ -1,0 +1,33 @@
+*{
+    font-family: "Kalam", cursive;
+}
+header{
+    background-color: #606676;
+
+}
+header span{
+    color: #FEF3E2;
+}
+.nav-item a{
+    color: #FEF3E2;
+}
+/* Link visitado*/
+.nav-item a:visited{
+    color: #FEF3E2;
+}
+.nav-item a:hover{
+    color: #FEF3E2;
+}
+#nav-butoon{
+    background-color: #8a8681;
+}
+.bi{
+    color: #a0a29a;
+    font-size: 2em;
+}
+.img-proyecto1{
+    background-image: url('/assets/clonpinterest.png');
+    opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
